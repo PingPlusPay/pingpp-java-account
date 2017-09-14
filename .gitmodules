@@ -1,0 +1,3 @@
+[submodule "pingpp-java"]
+	path = pingpp-java
+	url = https://git.pingxx.com/API/pingpp-java.git
